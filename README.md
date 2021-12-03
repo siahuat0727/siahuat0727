@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tansiahuat@gmail.com**
 
-- ⚡ Fun fact **I love singing**
+- ⚡ Fun fact **I can whistle C8 (highest note on a piano)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
