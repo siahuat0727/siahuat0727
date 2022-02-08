@@ -1,5 +1,4 @@
 <h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>, I'm Sia Huat</h1>
-<h3 align="center">Tsinghua University IIIS | ACM-ICPC Bronze medal | Mathematical Olimpiad 3rd place in 🇲🇾</h3>
 
 - 🔭 I’m currently working on **Microsoft Research Asia as RSDE Intern**
 
